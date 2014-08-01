@@ -400,7 +400,7 @@ public final class KeyboardTextsSet {
         /* 131 */ ".com",
         // popular web domains for the locale - most popular, displayed on the keyboard
         /* 132 */ "!hasLabels!,.net,.org,.gov,.edu",
-        /* 133 */ "!fixedColumnOrder!5,!hasLabels!,=-O|=-O ,:-P|:-P ,;-)|;-) ,:-(|:-( ,:-)|:-) ,:-!|:-! ,:-$|:-$ ,B-)|B-) ,:O|:O ,:-*|:-* ,:-D|:-D ,:\'(|:\'( ,:-\\\\|:-\\\\ ,O:-)|O:-) ,:-[|:-[ ",
+        /* 133 */ "!fixedColumnOrder!5,!hasLabels!,:)|:) ,;)|;) ,:(|:( ,:D|:D ,:P|:P ,^^|^^ ,-_-|-_- ,=-O|=-O ,:-P|:-P ,;-)|;-) ,:-(|:-( ,:-)|:-) ,:-!|:-! ,:-$|:-$ ,B-)|B-) ,:O|:O ,:-*|:-* ,:-D|:-D ,:\'(|:\'( ,:-\\\\|:-\\\\ ,O:-)|O:-) ,:-[|:-[ ",
         // U+2039: "‹" SINGLE LEFT-POINTING ANGLE QUOTATION MARK
         // U+203A: "›" SINGLE RIGHT-POINTING ANGLE QUOTATION MARK
         // U+00AB: "«" LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
@@ -951,6 +951,7 @@ public final class KeyboardTextsSet {
     /* Language de: German */
     private static final String[] LANGUAGE_de = {
         // U+00E4: "ä" LATIN SMALL LETTER A WITH DIAERESIS
+        // U+0040: "@" COMMERCIAL AT
         // U+00E2: "â" LATIN SMALL LETTER A WITH CIRCUMFLEX
         // U+00E0: "à" LATIN SMALL LETTER A WITH GRAVE
         // U+00E1: "á" LATIN SMALL LETTER A WITH ACUTE
@@ -958,7 +959,7 @@ public final class KeyboardTextsSet {
         // U+00E3: "ã" LATIN SMALL LETTER A WITH TILDE
         // U+00E5: "å" LATIN SMALL LETTER A WITH RING ABOVE
         // U+0101: "ā" LATIN SMALL LETTER A WITH MACRON
-        /* 0 */ "\u00E4,\u00E2,\u00E0,\u00E1,\u00E6,\u00E3,\u00E5,\u0101",
+        /* 0 */ "\u00E4,\u0040,\u00E2,\u00E0,\u00E1,\u00E6,\u00E3,\u00E5,\u0101",
         // U+00E9: "é" LATIN SMALL LETTER E WITH ACUTE
         // U+00E8: "è" LATIN SMALL LETTER E WITH GRAVE
         // U+00EA: "ê" LATIN SMALL LETTER E WITH CIRCUMFLEX
